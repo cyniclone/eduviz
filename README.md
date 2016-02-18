@@ -13,3 +13,8 @@ See the data-map [here](data-map.md)
 
 ### tutorial
 Tutorials are in the form of the .ipynb notebooks, see [Jupyter](http://jupyter.org/) for more information on iPython notebooks. This is done with the intent of having full visibility of scripting and file/data manipulation.
+
+### books
+Two texts will prove critical in the analysis:
+ * [Data Wrangling with Python](http://shop.oreilly.com/product/0636920032861.do)
+ * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)

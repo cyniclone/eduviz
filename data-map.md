@@ -12,7 +12,7 @@ Given that the project is overwhelmingly back-end in nature, design is more rele
 ## Dataset Profile
 The dataset is considered “non-trivial”, about 1.67 gigabytes in total, comprised of 17 individual (yearly) datasets. Each year of data contains in excess of 5000 rows, and about 1700 columns. 
 
-`
+```sh
 -rwx------@ 1 Nicolas  staff   54631372 Nov 19 00:57 MERGED1996_PP.csv
 -rwx------@ 1 Nicolas  staff   57125094 Nov 19 00:57 MERGED1997_PP.csv
 -rwx------@ 1 Nicolas  staff   60784660 Nov 19 00:56 MERGED1998_PP.csv
@@ -31,7 +31,7 @@ The dataset is considered “non-trivial”, about 1.67 gigabytes in total, comp
 -rwx------  1 Nicolas  staff  125091498 Aug 18  2015 MERGED2011_PP.csv
 -rwx------  1 Nicolas  staff  124800128 Aug 18  2015 MERGED2012_PP.csv
 -rwx------  1 Nicolas  staff   70590015 Aug 18  2015 MERGED2013_PP.csv
-`
+```
 
 Important to note is that the number of columns precludes the use of certain services such as MySQL to construct a database. Data parsing will likely be done with the use of scripting as opposed to a query-based approach. 
 

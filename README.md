@@ -10,3 +10,6 @@ With an immense, "non-trivial" dataset, it is worthwhile to be exacting and meti
 ### data-map
 The data-map contains a more apt description of the tools used as well as a profile of the data.
 See the data-map [here](data-map.md)
+
+### tutorial
+Tutorials are in the form of the .ipynb notebooks, see [Jupyter](http://jupyter.org/) for more information on iPython notebooks. This is done with the intent of having full visibility of scripting and file/data manipulation.

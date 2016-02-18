@@ -5,6 +5,8 @@ In addition to a visualization, eduviz is also a project of substantial data han
 
 With an immense, "non-trivial" dataset, it is worthwhile to be exacting and meticulous in one's data parsing process. Each numbered folder will show progression of the data and explain the transformations that are occurring, as well as the tools used.
 
+<b>Please note</b> that the actual .csv files are not present in this repository due to GitHub's filesize limits.
+
 ### data-map
 The data-map contains a more apt description of the tools used as well as a profile of the data.
 See the data-map [here](data-map.md)
